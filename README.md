@@ -7,9 +7,8 @@ Our work will be presented at _ICLR 2026_ in Rio de Janeiro, Brazil. Check out t
 **No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings**  
 _Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son*, and Sung-Eui Yoon*._  
 [Paper](https://openreview.net/forum?id=KUXLrSXYPv&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) 
-```
-| [Project](https://sgvr.kaist.ac.kr/~joonsung/AdvPaint/)
-```
+
+
 
 ## 🖌️Code Instruction
 TBW
