@@ -1,13 +1,24 @@
 # 📝 No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings
-_Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son*, and Sung-Eui Yoon*._  
-- Official implementation of **MoFit** (ICLR 2026) — a caption-free MIA framework leveraging 
-  synthetic conditioning inputs overfitted to the target model's generative manifold.
-- 📄 [Paper](https://arxiv.org/abs/2602.22689) | 🌐 [Project Page](https://sgvr.kaist.ac.kr/~joonsung/MoFit/)
 
+**Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son\*, Sung-Eui Yoon\***
 
-![test](https://github.com/JoonsungJeon/MoFit/blob/main/figs/teaser3.png)
+<p align="left">
+  <a href="https://arxiv.org/abs/2602.22689">
+    <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="Paper">
+  </a>
+  <a href="https://sgvr.kaist.ac.kr/~joonsung/MoFit/">
+    <img src="https://img.shields.io/badge/Project-Page-4b8bbe.svg" alt="Project Page">
+  </a>
+  <img src="https://img.shields.io/badge/ICLR-2026-blue.svg" alt="ICLR 2026">
+</p>
 
+> Official implementation of **MoFit** (ICLR 2026) — a **caption-free** membership inference attack (MIA) framework that leverages synthetic conditioning inputs overfitted to the target model's generative manifold.
 
+<p align="center">
+  <img src="https://github.com/JoonsungJeon/MoFit/blob/main/figs/teaser3.png" alt="MoFit Teaser" width="90%">
+</p>
+
+---
 
 
 ## 🖌️ Requirements
