@@ -9,7 +9,6 @@
   <a href="https://sgvr.kaist.ac.kr/~joonsung/MoFit/">
     <img src="https://img.shields.io/badge/Project-Page-4b8bbe.svg" alt="Project Page">
   </a>
-  <img src="https://img.shields.io/badge/ICLR-2026-blue.svg" alt="ICLR 2026">
 </p>
 
 > Official implementation of **MoFit** (ICLR 2026) — a **caption-free** membership inference attack (MIA) framework that leverages synthetic conditioning inputs overfitted to the target model's generative manifold.
