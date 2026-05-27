@@ -1,0 +1,12 @@
+torch==1.13.0
+torchvision==0.14.0
+transformers==4.30.2
+diffusers==0.18.2
+accelerate==0.21.0
+huggingface-hub==0.23.2
+datasets==2.20.0
+accelerate==0.21.0
+
+
+## pip3 install -U scikit-learn
+## pip install matploblib
